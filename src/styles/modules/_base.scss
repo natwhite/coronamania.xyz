@@ -1,0 +1,15 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  cursor: none;
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+  color: $primary-color;
+  font-family: $primary-font;
+  background: #f1f1f1;
+}

@@ -1,0 +1,24 @@
+@import '~normalize.css/normalize.css';
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  cursor: none;
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+  color: #333;
+  font-family: Helvetica, sans-serif;
+  background: #f1f1f1;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
